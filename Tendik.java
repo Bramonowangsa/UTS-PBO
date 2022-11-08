@@ -12,8 +12,6 @@ public class Tendik extends Karyawan{
     }
 
     public int lembur(int jam) {
-        // gaji();
-        // int total;
         total = 50000 * jam;
         return total;
     }
